@@ -1,0 +1,7 @@
+estnet Faucet
+You need to connect both wallets:
+An EVM wallet (e.g., MetaMask)
+with at least 0.001 ETH on Ethereum Mainnet
+with at least one transaction sent history
+A Cosmos wallet (e.g., Keplr, Leap)
+Maximum claimable amount is 30 RISE per 20 hours.
